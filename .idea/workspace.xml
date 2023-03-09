@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d44b5018-abf7-4450-9c8e-c5958ed2980e" name="Changes" comment="Practice for getting an JSON file and print it on the console" />
+    <list default="true" id="d44b5018-abf7-4450-9c8e-c5958ed2980e" name="Changes" comment="Practice for getting an JSON file and print it on the console">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678354767707</updated>
-      <workItem from="1678354769156" duration="1214000" />
+      <workItem from="1678354769156" duration="1689000" />
     </task>
     <task id="LOCAL−00001" summary="Practice for getting an JSON file and print it on the console">
       <created>1678355764483</created>
@@ -52,7 +54,19 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1678355897693</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="Practice for getting an JSON file and print it on the console">
+      <created>1678357264432</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1678357264432</updated>
+    </task>
+    <task id="LOCAL−00004" summary="Practice for getting an JSON file and print it on the console">
+      <created>1678357284028</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1678357284028</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
