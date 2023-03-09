@@ -8,7 +8,7 @@ import java.io.IOException;
 public class Main {
     public static void main(String[] args) throws IOException, ParseException {
 
-        Object o = new JSONParser().parse(new FileReader("C:\\Users\\kelly\\Desktop\\JSONExample\\src\\data.json"));
+        Object o = new JSONParser().parse(new FileReader("C:\\Users\\kelly\\Desktop\\JSONPractice\\src\\data.json"));
         JSONObject jsonData = (JSONObject) o;
 
         JSONObject person = (JSONObject) jsonData.get("p1");
